@@ -25,4 +25,5 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/anesiadis-theocharis" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" alt="https://www.linkedin.com/in/anesiadis-theocharis" height="30" width="40" /></a>
+<a href="mailto:anesiadis.th@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo" alt="https://www.linkedin.com/in/anesiadis-theocharis" height="30" width="40" /></a>
 </p>
