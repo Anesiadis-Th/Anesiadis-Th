@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Theocharis Anesiadis</h1>
 <h3 align="center">Committed front-end developer</h3>
 
-**All about me**
+<h3 align="left">About me</h1>
 I am currently a graduant at Department of Information Technology and Electronic Systems Engineering, of the International University of Greece (IHU).
 
 
