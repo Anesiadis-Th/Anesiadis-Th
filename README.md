@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Theocharis Anesiadis</h1>
 <h3 align="center">Committed front-end developer</h3>
 
-<h3 align="left">About me</h1>
-I am currently a graduant at Department of Information Technology and Electronic Systems Engineering, of the International University of Greece (IHU).
-
+- 🎓 Pursuing graduation at the Department of Information Technology and Electronic Systems Engineering, International Hellenic University (IHU).
 
 - 🌱 I’m currently learning **all about Front-end Development**, constantly exploring new technologies and expanding my knowledge.
+
+-✨ Dedicated to crafting clean, intuitive, and user-friendly interfaces.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Anesiadis-Th](https://github.com/Anesiadis-Th)
 
