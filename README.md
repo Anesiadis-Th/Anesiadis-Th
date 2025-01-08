@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **all about Front-end Development**, constantly exploring new technologies and expanding my knowledge.
 
--✨ Dedicated to crafting clean, intuitive, and user-friendly interfaces.
+- ✨ Dedicated to crafting clean, intuitive, and user-friendly interfaces.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Anesiadis-Th](https://github.com/Anesiadis-Th)
 
