@@ -3,7 +3,7 @@
 
 - 🎓 Pursuing graduation at the Department of Information Technology and Electronic Systems Engineering, International Hellenic University (IHU).
 
-- 🌱 I’m currently learning **all about Front-end Development**, constantly exploring new technologies and expanding my knowledge.
+- 🌱 I’m currently learning **all about Web Development**, constantly exploring new technologies and expanding my knowledge.
 
 - ✨ Dedicated to crafting clean, intuitive, and user-friendly interfaces.
 
