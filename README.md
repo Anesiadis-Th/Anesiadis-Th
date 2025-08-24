@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Theocharis Anesiadis</h1>
 <h3 align="center">Committed developer</h3>
 
-- 🌱 I’m currently learning **all about Web Development**, constantly exploring new technologies and expanding my knowledge.
+- 🌱 I’m learning **all about Web Development**, constantly exploring new technologies and expanding my knowledge.
 
-- ✨ Dedicated to crafting clean, intuitive, and user-friendly interfaces.
+- ✨ Dedicated to crafting clean and intuitive code.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Anesiadis-Th](https://github.com/Anesiadis-Th)
 
