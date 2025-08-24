@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Theocharis Anesiadis</h1>
-<h3 align="center">Committed front-end developer</h3>
-
-- 🎓 Pursuing graduation at the Department of Information Technology and Electronic Systems Engineering, International Hellenic University (IHU).
+<h3 align="center">Committed developer</h3>
 
 - 🌱 I’m currently learning **all about Web Development**, constantly exploring new technologies and expanding my knowledge.
 
