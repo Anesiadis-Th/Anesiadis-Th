@@ -1,33 +1,48 @@
-<h1 align="center">Hi 👋, I'm Theocharis Anesiadis</h1>
-<h3 align="center">Committed developer</h3>
+<h1 align="center">Theocharis Anesiadis</h1>
+<h3 align="center">Full Stack Developer ·  🇩🇰 Copenhagen, DK</h3>
 
-- 🌱 I’m learning **all about Web Development**, constantly exploring new technologies and expanding my knowledge.
+<p align="center">
+  Currently building enterprise web platforms at <strong>Deloitte</strong>
+</p>
 
-- ✨ Dedicated to crafting clean and intuitive code.
+<br/>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Anesiadis-Th](https://github.com/Anesiadis-Th)
+- 🔭 Currently working on multi-brand web platforms and design systems with Next.js, React and TypeScript
+- 🌍 Based in Copenhagen, open to local opportunities
+- 📫 Reach me at **anesiadis.th@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
+<br/>
+
+<h3 align="left">Tech Stack</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="js logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="ts logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tw logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/sass/CC6699" height="40" alt="sass logo"  />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="Supabase" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
+</p>
 
-### </p>
+<br/>
 
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/anesiadis-theocharis" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" alt="https://www.linkedin.com/in/anesiadis-theocharis" height="30" width="40" /></a>
-<a href="mailto:anesiadis.th@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo" alt="https://www.linkedin.com/in/anesiadis-theocharis" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/anesiadis-theocharis" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+  </a>
+  <img width="12" />
+  <a href="mailto:anesiadis.th@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" />
+  </a>
 </p>
