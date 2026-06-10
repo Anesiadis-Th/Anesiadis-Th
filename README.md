@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer · Copenhagen, DK</h3>
 
 <p align="center">
-  Currently building enterprise web platforms at <strong>Deloitte Greece</strong><br/>
+  Currently building enterprise web platforms at <strong>Deloitte</strong><br/>
 </p>
 
 <br/>
