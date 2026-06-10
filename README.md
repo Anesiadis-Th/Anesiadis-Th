@@ -1,14 +1,14 @@
 <h1 align="center">Theocharis Anesiadis</h1>
-<h3 align="center">Full Stack Developer ·  🇩🇰 Copenhagen, DK</h3>
+<h3 align="center">Full Stack Developer · Copenhagen, DK</h3>
 
 <p align="center">
-  Currently building enterprise web platforms at <strong>Deloitte</strong>
+  Currently building enterprise web platforms at <strong>Deloitte Greece</strong><br/>
 </p>
 
 <br/>
 
-- 🔭 Currently working on multi-brand web platforms and design systems with Next.js, React and TypeScript
-- 🌍 Based in Copenhagen, open to local opportunities
+- 🔭 Working on multi-brand web platforms and design systems with Next.js, React and TypeScript
+- 🌍 Based in Copenhagen, actively looking for local opportunities
 - 📫 Reach me at **anesiadis.th@gmail.com**
 
 <br/>
