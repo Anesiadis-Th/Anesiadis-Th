@@ -7,7 +7,6 @@
 <br/>
 
 - 🔭 Working on multi-brand web platforms and design systems with Next.js, React and TypeScript
-- 🌍 Open to frontend / full-stack roles in Copenhagen
 - 📫 Reach me at **anesiadis.th@gmail.com**
 
 <br/>
