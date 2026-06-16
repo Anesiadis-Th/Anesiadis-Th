@@ -25,11 +25,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt=".NET" />
   <img width="12" />
