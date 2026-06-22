@@ -1,7 +1,7 @@
 <h1 align="center">Theocharis Anesiadis</h1>
 <h3 align="center">Full Stack Developer · Copenhagen, DK</h3>
 <p align="center">
-  Building enterprise web platforms at <strong>Deloitte Greece</strong>
+  Building enterprise web platforms at <strong>Deloitte</strong>
 </p>
 
 <br/>
