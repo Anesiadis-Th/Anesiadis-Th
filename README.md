@@ -1,9 +1,8 @@
 <h1 align="center">Theocharis Anesiadis</h1>
 <h3 align="center">Full Stack Developer · Copenhagen, DK</h3>
 <p align="center">
-  Building enterprise web platforms at <strong>Deloitte</strong>
+  Building multi-brand web platforms at <strong>Deloitte</strong>
 </p>
-
 <br/>
 
 - 🔭 Working on multi-brand web platforms and design systems with Next.js, React and TypeScript
@@ -13,7 +12,7 @@
 
 <h3 align="left">Projects</h3>
 
-**[AltusIQ](https://github.com/Anesiadis-Th/altusiq)** · Real-time aviation analytics — live flight tracking built with ASP.NET Core, SignalR and PostGIS · [Live](https://altusiq.vercel.app)
+**[AltusIQ](https://github.com/Anesiadis-Th/altusiq)** · Real-time aviation analytics — solo-built live flight tracking with Next.js, ASP.NET Core, SignalR and PostGIS · [Live](https://altusiq.vercel.app)
 
 **[CodeIT](https://github.com/Anesiadis-Th/codeit)** · Gamified C learning platform adopted by International Hellenic University, built with React, Supabase and Judge0 · [Live](https://code-it.gr)
 
