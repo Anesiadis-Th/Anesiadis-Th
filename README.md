@@ -12,7 +12,7 @@
 
 <h3 align="left">Projects</h3>
 
-**[AltusIQ](https://github.com/Anesiadis-Th/altusiq)** · Real-time aviation analytics — solo-built live flight tracking with Next.js, ASP.NET Core, SignalR and PostGIS · [Live](https://altusiq.vercel.app)
+**[AltusIQ](https://github.com/Anesiadis-Th/altusiq)** · Real-time aviation analytics. Solo-built live flight tracking with Next.js, ASP.NET Core, SignalR and PostGIS · [Live](https://altusiq.vercel.app)
 
 **[CodeIT](https://github.com/Anesiadis-Th/codeit)** · Gamified C learning platform adopted by International Hellenic University, built with React, Supabase and Judge0 · [Live](https://code-it.gr)
 
