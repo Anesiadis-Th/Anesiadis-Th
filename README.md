@@ -1,7 +1,7 @@
 <h1 align="center">Theocharis Anesiadis</h1>
 <h3 align="center">Full Stack Developer</h3>
 <p align="center">
-  Building multi-brand web platforms at <strong>Deloitte</strong>
+  Currenlty building multi-brand web platforms at <strong>Deloitte</strong>
 </p>
 <br/>
 
